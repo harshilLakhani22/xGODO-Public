@@ -1,0 +1,2114 @@
+{
+  "falseId": "4f8693b6-125e-4322-a3e3-35a333b2f409",
+  "className": "android.widget.FrameLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 0,
+    "right": 1080,
+    "top": 0,
+    "bottom": 2400
+  },
+  "clickable": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.google.android.apps.maps",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": false,
+  "index": 0,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    4,
+    8,
+    64,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "24617853-868a-4657-bbcb-a1aa6448698f",
+      "className": "com.google.android.apps.gmm.kits.compose.interop.GmmComposeView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 0,
+        "right": 1080,
+        "top": 0,
+        "bottom": 2400
+      },
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 1,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": [
+        {
+          "falseId": "1d7f9c7c-80c6-4e5f-8739-ef8d651ae9b0",
+          "className": "android.view.View",
+          "isImportantForAccessibility": false,
+          "boundsInScreen": {
+            "left": 0,
+            "right": 1080,
+            "top": 0,
+            "bottom": 2400
+          },
+          "clickable": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": false,
+          "index": 0,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            64
+          ],
+          "actionLabels": [
+            {
+              "id": 64
+            }
+          ],
+          "children": [
+            {
+              "falseId": "de637ba9-09d0-4699-9ef2-f06b972b550e",
+              "className": "android.view.View",
+              "isImportantForAccessibility": false,
+              "boundsInScreen": {
+                "left": 0,
+                "right": 1080,
+                "top": 0,
+                "bottom": 2400
+              },
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.apps.maps",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 0,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                64
+              ],
+              "actionLabels": [
+                {
+                  "id": 64
+                }
+              ],
+              "children": [
+                {
+                  "falseId": "5b932a04-4d01-422d-bfe0-af7c927b7bca",
+                  "className": "android.view.View",
+                  "isImportantForAccessibility": false,
+                  "boundsInScreen": {
+                    "left": 928,
+                    "right": 1054,
+                    "top": 373,
+                    "bottom": 499
+                  },
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 0,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    64
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 64
+                    }
+                  ],
+                  "children": [
+                    {
+                      "falseId": "4d05e7e6-5f3a-4aa1-b90f-8236d4e71758",
+                      "className": "android.view.View",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 930,
+                        "right": 1056,
+                        "top": 375,
+                        "bottom": 501
+                      },
+                      "isChecked": 0,
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.apps.maps",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 0,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextSelectable": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        64,
+                        16
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "81ed9756-391c-47d8-9a73-df34bf8dbb4c",
+                          "description": "Layers",
+                          "className": "android.view.View",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 961,
+                            "right": 1024,
+                            "top": 406,
+                            "bottom": 469
+                          },
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.apps.maps",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 0,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextSelectable": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            256,
+                            512,
+                            64,
+                            131072
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 131072
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "falseId": "6547754f-3f7c-43e3-9059-0f176ce7be20",
+                          "className": "android.widget.CheckBox",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 940,
+                            "right": 1045,
+                            "top": 385,
+                            "bottom": 490
+                          },
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.apps.maps",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextSelectable": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            64
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 64
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "falseId": "95e82d42-6b4c-47c2-937f-7885082eea55",
+                  "className": "android.view.View",
+                  "isImportantForAccessibility": false,
+                  "boundsInScreen": {
+                    "left": 42,
+                    "right": 318,
+                    "top": 1451,
+                    "bottom": 1577
+                  },
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 1,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    64
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 64
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "falseId": "2533a8d2-2421-4836-a177-766580caa2a4",
+                  "className": "android.view.View",
+                  "isImportantForAccessibility": false,
+                  "boundsInScreen": {
+                    "left": 911,
+                    "right": 1038,
+                    "top": 1231,
+                    "bottom": 1358
+                  },
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 2,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    64
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 64
+                    }
+                  ],
+                  "children": [
+                    {
+                      "falseId": "ba7b8fff-9a41-45ca-bcb0-5848228a34a1",
+                      "className": "android.view.View",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 911,
+                        "right": 1038,
+                        "top": 1231,
+                        "bottom": 1358
+                      },
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.apps.maps",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 0,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextSelectable": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        64,
+                        16
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "fd606814-3ff4-44eb-9cb9-faf27aaa2b30",
+                          "description": "Location services disabled. Enable location services to re-center map to your location.",
+                          "className": "android.view.View",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 933,
+                            "right": 1017,
+                            "top": 1253,
+                            "bottom": 1337
+                          },
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.apps.maps",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 0,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextSelectable": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            256,
+                            512,
+                            64,
+                            131072
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 131072
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "falseId": "2c9e69e8-4751-46ad-b47b-e4560d641971",
+                          "className": "android.widget.Button",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 911,
+                            "right": 1038,
+                            "top": 1231,
+                            "bottom": 1358
+                          },
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.apps.maps",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextSelectable": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            64
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 64
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "falseId": "09149ba0-4a15-4279-b682-a63a57cd4c51",
+                  "className": "android.view.View",
+                  "isImportantForAccessibility": false,
+                  "boundsInScreen": {
+                    "left": 911,
+                    "right": 1038,
+                    "top": 1400,
+                    "bottom": 1527
+                  },
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 3,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    64
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 64
+                    }
+                  ],
+                  "children": [
+                    {
+                      "falseId": "3d01b0df-dc01-4cb8-a78b-4e0df6035e04",
+                      "className": "android.view.View",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 911,
+                        "right": 1038,
+                        "top": 1400,
+                        "bottom": 1527
+                      },
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.apps.maps",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 0,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextSelectable": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        64,
+                        16
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "796aa3e2-4b2a-466f-bbe3-6daca5d9ffdd",
+                          "description": "Directions",
+                          "className": "android.view.View",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 943,
+                            "right": 1006,
+                            "top": 1432,
+                            "bottom": 1495
+                          },
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.apps.maps",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 0,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextSelectable": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            256,
+                            512,
+                            64,
+                            131072
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 131072
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "falseId": "88b2a064-dbc2-4012-b768-ef344ce00f57",
+                          "className": "android.widget.Button",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 911,
+                            "right": 1038,
+                            "top": 1400,
+                            "bottom": 1527
+                          },
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.apps.maps",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextSelectable": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            64
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 64
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "falseId": "23cbebb5-9660-4998-85d8-6dbce62ee64d",
+      "viewId": "com.google.android.apps.maps:id/fullscreens_group",
+      "className": "android.widget.FrameLayout",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 0,
+        "right": 1080,
+        "top": 0,
+        "bottom": 2400
+      },
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 8,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": [
+        {
+          "falseId": "cd1b9da6-c7b9-469b-bbd0-427fb046ad73",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 0,
+            "right": 1080,
+            "top": 226,
+            "bottom": 2400
+          },
+          "clickable": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": false,
+          "index": 1,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            4,
+            8,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "cb026d03-8fc3-493d-942c-8ec2d85c2116",
+              "className": "android.widget.LinearLayout",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 0,
+                "right": 1080,
+                "top": 226,
+                "bottom": 384
+              },
+              "collectionItemInfo": {
+                "rowIndex": 0,
+                "columnIndex": 0,
+                "rowSpan": 1,
+                "columnSpan": 1,
+                "isSelected": false
+              },
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.apps.maps",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "falseId": "0e30bc57-1e00-49ee-93ba-6e2262efc9b3",
+                  "className": "android.widget.TextView",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 210,
+                    "right": 592,
+                    "top": 244,
+                    "bottom": 309
+                  },
+                  "text": "HOUSE OF COFFEE",
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 2,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "falseId": "0d388cb6-63c5-4c9f-beaa-6f7664e13ffc",
+                  "className": "android.widget.TextView",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 210,
+                    "right": 923,
+                    "top": 309,
+                    "bottom": 365
+                  },
+                  "text": "RAJANAND FARM, Ved Road, RAJHANS FLAMINGO CINEMA, Aamba Talavadi, Priya Park Society, Katargam, Surat, Gujarat 395004, India",
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 3,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "falseId": "320f3121-ed4d-4617-87a0-f9bc6fdcafb7",
+                  "description": "Activate to enter suggestion HOUSE OF COFFEE into search bar",
+                  "className": "android.widget.FrameLayout",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 933,
+                    "right": 1059,
+                    "top": 242,
+                    "bottom": 368
+                  },
+                  "clickable": true,
+                  "isFocused": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": true,
+                  "index": 4,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    1,
+                    4,
+                    8,
+                    16,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "falseId": "bcb3de50-5758-4cbd-805e-45d48468a59e",
+              "className": "android.widget.LinearLayout",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 0,
+                "right": 1080,
+                "top": 387,
+                "bottom": 545
+              },
+              "collectionItemInfo": {
+                "rowIndex": 1,
+                "columnIndex": 0,
+                "rowSpan": 1,
+                "columnSpan": 1,
+                "isSelected": false
+              },
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.apps.maps",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 2,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "falseId": "0ca1f40e-b9d4-4f0f-91b5-b899419810eb",
+                  "className": "android.widget.TextView",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 210,
+                    "right": 592,
+                    "top": 405,
+                    "bottom": 470
+                  },
+                  "text": "HOUSE OF COFFEE",
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 2,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "falseId": "e5617a64-1c2c-467b-bf8c-d15c496f16ee",
+                  "className": "android.widget.TextView",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 210,
+                    "right": 923,
+                    "top": 470,
+                    "bottom": 526
+                  },
+                  "text": "Ved Road, near RAJHANS FLAMINGO CINEMA, Aamba Talavadi, Priya Park Society, Katargam, Surat, Gujarat 395004, India",
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 3,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "falseId": "584e4c01-c840-4a7a-8262-cff6cef6e127",
+                  "description": "Activate to enter suggestion HOUSE OF COFFEE into search bar",
+                  "className": "android.widget.FrameLayout",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 933,
+                    "right": 1059,
+                    "top": 403,
+                    "bottom": 529
+                  },
+                  "clickable": true,
+                  "isFocused": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": true,
+                  "index": 4,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    1,
+                    4,
+                    8,
+                    16,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "falseId": "bd28d969-7808-420b-b0a5-1ccc52c1ba9f",
+              "className": "android.widget.LinearLayout",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 0,
+                "right": 1080,
+                "top": 566,
+                "bottom": 724
+              },
+              "collectionItemInfo": {
+                "rowIndex": 2,
+                "columnIndex": 0,
+                "rowSpan": 1,
+                "columnSpan": 1,
+                "isSelected": false
+              },
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.apps.maps",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 3,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "falseId": "f57cf6d8-6e27-44ec-9dd2-139f4e837f12",
+                  "className": "android.widget.TextView",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 210,
+                    "right": 812,
+                    "top": 613,
+                    "bottom": 677
+                  },
+                  "text": "Choose on map",
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": true,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 1,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "falseId": "97ac6558-474f-4bbf-b776-e054a706ded2",
+                  "description": "Map",
+                  "className": "android.view.View",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 812,
+                    "right": 1028,
+                    "top": 592,
+                    "bottom": 697
+                  },
+                  "text": "Map",
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": true,
+                  "packageName": "com.google.android.apps.maps",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 2,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextSelectable": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    256,
+                    512,
+                    131072,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "falseId": "38aefed4-14ff-46b2-827a-56bae1504153",
+      "viewId": "com.google.android.apps.maps:id/search_omnibox_container",
+      "className": "android.widget.FrameLayout",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 0,
+        "right": 1080,
+        "top": 0,
+        "bottom": 226
+      },
+      "clickable": false,
+      "isFocused": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": true,
+      "index": 6,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        1,
+        4,
+        8,
+        64,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": [
+        {
+          "falseId": "52f6f3fd-0753-4202-871d-e510dbff8320",
+          "description": "Navigate up",
+          "viewId": "com.google.android.apps.maps:id/search_omnibox_menu_button",
+          "className": "android.widget.Button",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 31,
+            "right": 157,
+            "top": 84,
+            "bottom": 210
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 1,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            256,
+            512,
+            131072,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 256
+            },
+            {
+              "id": 512
+            },
+            {
+              "id": 131072
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": []
+        },
+        {
+          "falseId": "04343741-c55a-4f18-9277-07832fbd420c",
+          "description": "",
+          "viewId": "com.google.android.apps.maps:id/search_omnibox_text_box",
+          "className": "android.widget.EditText",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 157,
+            "right": 923,
+            "top": 84,
+            "bottom": 210
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 2,
+          "isHeading": true,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "cd08cb5e-45c4-446b-9725-79e707fc7042",
+              "viewId": "com.google.android.apps.maps:id/search_omnibox_edit_text",
+              "className": "android.widget.EditText",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 157,
+                "right": 921,
+                "top": 84,
+                "bottom": 210
+              },
+              "text": "House OF Coffee, Katargam, Surat, Gujarat 395004",
+              "clickable": true,
+              "isFocused": true,
+              "isScrollable": false,
+              "inputType": "524289",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": true,
+              "maxTextLength": 5000,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.apps.maps",
+              "isLongClickable": true,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 2,
+              "hintText": "Search here",
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": true,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                2,
+                4,
+                8,
+                16,
+                32,
+                64,
+                256,
+                512,
+                32768,
+                131072,
+                2097152,
+                16908342,
+                16908372
+              ],
+              "actionLabels": [
+                {
+                  "id": 2
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 32
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 32768
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 2097152
+                },
+                {
+                  "id": 16908342
+                },
+                {
+                  "id": 16908372,
+                  "label": "Enter"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "c128fe37-55a7-4127-9d56-817607d9c78e",
+          "viewId": "com.google.android.apps.maps:id/search_omnibox_text_clear",
+          "className": "android.widget.Button",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 923,
+            "right": 1049,
+            "top": 84,
+            "bottom": 210
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 3,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "0be6bb6b-6264-4dea-a40b-a51472a84a1f",
+              "description": "Clear",
+              "className": "android.widget.ImageView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 954,
+                "right": 1017,
+                "top": 115,
+                "bottom": 178
+              },
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.apps.maps",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "falseId": "2073b5ba-d626-4c28-8cad-fbe7eda2b63d",
+      "viewId": "com.google.android.apps.maps:id/expandingscrollview_container",
+      "className": "android.widget.ScrollView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 0,
+        "right": 0,
+        "top": 226,
+        "bottom": 2400
+      },
+      "clickable": false,
+      "isScrollable": true,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 7,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": false,
+      "actions": [
+        4,
+        8,
+        64,
+        4096,
+        8192,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 4096
+        },
+        {
+          "id": 8192
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    }
+  ]
+}

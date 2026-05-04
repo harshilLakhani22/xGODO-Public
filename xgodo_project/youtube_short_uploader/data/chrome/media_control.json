@@ -1,0 +1,136 @@
+{
+  "falseId": "e339200c-cd1d-4b3c-bcf1-a327e0f3678d",
+  "className": "android.widget.Button",
+  "isImportantForAccessibility": false,
+  "boundsInScreen": {
+    "left": 952,
+    "right": 1080,
+    "top": 1386,
+    "bottom": 1517
+  },
+  "text": "show more media controls",
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.android.chrome",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 0,
+  "hintText": "",
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "tooltipText": "more options",
+  "actions": [
+    16908342,
+    16908348,
+    1024,
+    2048,
+    256,
+    512,
+    1,
+    16,
+    64
+  ],
+  "actionLabels": [
+    {
+      "id": 16908342
+    },
+    {
+      "id": 16908348
+    },
+    {
+      "id": 1024
+    },
+    {
+      "id": 2048
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    }
+  ],
+  "children": [
+    {
+      "falseId": "20b9c2b5-72ce-4a5b-ab18-1c4c4ef5ed2f",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": false,
+      "boundsInScreen": {
+        "left": 968,
+        "right": 1065,
+        "top": 1401,
+        "bottom": 1501
+      },
+      "text": "",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.android.chrome",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 0,
+      "hintText": "",
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "tooltipText": "",
+      "actions": [
+        16908342,
+        16908348,
+        1024,
+        2048,
+        64
+      ],
+      "actionLabels": [
+        {
+          "id": 16908342
+        },
+        {
+          "id": 16908348
+        },
+        {
+          "id": 1024
+        },
+        {
+          "id": 2048
+        },
+        {
+          "id": 64
+        }
+      ],
+      "children": []
+    }
+  ]
+}

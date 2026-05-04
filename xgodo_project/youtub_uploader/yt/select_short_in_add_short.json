@@ -1,0 +1,142 @@
+{
+  "falseId": "c8634f37-3e31-4fec-a207-c2348fe188a8",
+  "description": "Import video from photo library",
+  "viewId": "com.google.android.youtube:id/reel_camera_gallery_button_delegate",
+  "className": "android.widget.Button",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 0,
+    "right": 189,
+    "top": 1663,
+    "bottom": 1894
+  },
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.google.android.youtube",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 7,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    256,
+    512,
+    131072,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 131072
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "1b72f055-970c-45af-939a-0b695aa515a6",
+      "viewId": "com.google.android.youtube:id/reel_camera_gallery_button_label",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 61,
+        "right": 128,
+        "top": 1843,
+        "bottom": 1894
+      },
+      "text": "Add",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": true,
+      "packageName": "com.google.android.youtube",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 1,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        256,
+        512,
+        131072,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    }
+  ]
+}

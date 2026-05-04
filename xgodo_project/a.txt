@@ -1,0 +1,12 @@
+we are now making the typescript script for xgodo platform to automate youtube shorts uploading from the url. url is from Job Variables and it can be in 1.host:port/file.format or 2.domain/path/file.format etc. 
+
+right now we are making an script to uploading shorts to youtube. 
+so for the first step we are going to make a flow to download video from the chrome that we are going to upload on youtube as shorts. 
+
+1. try to launch chrome (fresh launch so alway home screen shows like @beautifulMention ). 
+
+1.1. if it's @beautifulMention(@beautifulMention) screen then -> select@beautifulMention -> which will lead us to @beautifulMention @beautifulMention .  and we will need to write a link which we have in job vairable (Video url*). and hit the enter which will lead us to @beautifulMention @beautifulMention  screen. where we need to select @beautifulMention  button then @beautifulMention. and wait for 15 seconds to download.
+
+1.2 if it's different screen than @beautifulMention @beautifulMention then we need to find @beautifulMention -> @beautifulMention to open the new tab, and once we have new tab. then we just simply run as (1.1) to download video.
+
+code in @beautifulMention 

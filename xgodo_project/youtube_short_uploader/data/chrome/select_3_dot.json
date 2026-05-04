@@ -1,0 +1,80 @@
+{
+  "falseId": "15325929-e6bf-4b89-a31e-44027a84e2ce",
+  "description": "Customize and control Google Chrome",
+  "viewId": "com.android.chrome:id/menu_button",
+  "className": "android.widget.ImageButton",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 954,
+    "right": 1080,
+    "top": 63,
+    "bottom": 210
+  },
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.android.chrome",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 6,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "tooltipText": "Customize and control Google Chrome",
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    256,
+    512,
+    131072,
+    16908342,
+    16908356
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 131072
+    },
+    {
+      "id": 16908342
+    },
+    {
+      "id": 16908356
+    }
+  ],
+  "children": []
+}

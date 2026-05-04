@@ -1,0 +1,397 @@
+{
+  "falseId": "83dd7d1e-050b-453a-803a-303f4c6042dc",
+  "className": "android.widget.LinearLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 0,
+    "right": 1080,
+    "top": 888,
+    "bottom": 1317
+  },
+  "collectionItemInfo": {
+    "rowIndex": 4,
+    "columnIndex": 0,
+    "rowSpan": 1,
+    "columnSpan": 1,
+    "isSelected": false
+  },
+  "clickable": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.google.android.apps.maps",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": false,
+  "index": 5,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    4,
+    8,
+    64,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "f00229fb-c142-4eca-9196-85b62416a5f7",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 44,
+        "right": 513,
+        "top": 932,
+        "bottom": 1041
+      },
+      "text": "Rate and review",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": true,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 1,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        256,
+        512,
+        131072,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    },
+    {
+      "falseId": "a660d62f-83b6-41e7-9181-6be12bb87767",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 44,
+        "right": 1018,
+        "top": 1041,
+        "bottom": 1119
+      },
+      "text": "Share your experience to help others",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": true,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 2,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        256,
+        512,
+        131072,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    },
+    {
+      "falseId": "4dd3d697-3f18-4f9a-ad12-636d97fde7ed",
+      "className": "android.widget.LinearLayout",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 44,
+        "right": 1036,
+        "top": 1119,
+        "bottom": 1273
+      },
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 3,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": [
+        {
+          "falseId": "ffd814f9-1bc8-4aad-9691-785cc5c034f4",
+          "description": "Your contributions",
+          "className": "android.widget.ImageView",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 44,
+            "right": 176,
+            "top": 1141,
+            "bottom": 1273
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 1,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            256,
+            512,
+            131072,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 256
+            },
+            {
+              "id": 512
+            },
+            {
+              "id": 131072
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": []
+        },
+        {
+          "falseId": "e1cf984a-9f6c-49af-8ccd-30b1d711efad",
+          "className": "android.widget.SeekBar",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 176,
+            "right": 836,
+            "top": 1141,
+            "bottom": 1273
+          },
+          "clickable": false,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.apps.maps",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 2,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            64,
+            16908342,
+            16908349,
+            2131427382,
+            2131427393,
+            2131427404,
+            2131427407,
+            2131427408
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            },
+            {
+              "id": 16908349
+            },
+            {
+              "id": 2131427382,
+              "label": "Rate 1 of 5"
+            },
+            {
+              "id": 2131427393,
+              "label": "Rate 2 of 5"
+            },
+            {
+              "id": 2131427404,
+              "label": "Rate 3 of 5"
+            },
+            {
+              "id": 2131427407,
+              "label": "Rate 4 of 5"
+            },
+            {
+              "id": 2131427408,
+              "label": "Rate 5 of 5"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

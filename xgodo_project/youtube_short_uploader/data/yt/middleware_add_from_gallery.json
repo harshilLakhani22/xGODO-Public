@@ -1,0 +1,75 @@
+{
+  "falseId": "be87b76d-a2aa-4d6c-8fb2-fcc2f00d13ee",
+  "viewId": "com.google.android.youtube:id/unified_permissions_primary_button",
+  "className": "android.widget.Button",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 42,
+    "right": 1038,
+    "top": 1647,
+    "bottom": 1773
+  },
+  "text": "Add from Gallery",
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": true,
+  "packageName": "com.google.android.youtube",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 28,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    256,
+    512,
+    131072,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 131072
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": []
+}

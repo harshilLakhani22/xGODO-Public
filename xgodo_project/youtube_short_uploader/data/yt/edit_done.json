@@ -1,0 +1,76 @@
+{
+  "falseId": "aa32f9ed-8276-4417-a6a9-5788b7c3b36a",
+  "description": "Add segment to project",
+  "viewId": "com.google.android.youtube:id/shorts_trim_finish_trim_button",
+  "className": "android.widget.Button",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 868,
+    "right": 1038,
+    "top": 2195,
+    "bottom": 2290
+  },
+  "text": "Done",
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": true,
+  "packageName": "com.google.android.youtube",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 13,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    256,
+    512,
+    131072,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 131072
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": []
+}

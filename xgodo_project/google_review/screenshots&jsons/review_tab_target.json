@@ -1,0 +1,133 @@
+{
+  "falseId": "b49653fc-ba0e-4c4b-a686-6d8c58c5425c",
+  "className": "android.widget.LinearLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 578,
+    "right": 879,
+    "top": 1550,
+    "bottom": 1703
+  },
+  "collectionItemInfo": {
+    "rowIndex": 0,
+    "columnIndex": 2,
+    "rowSpan": 1,
+    "columnSpan": 1,
+    "isSelected": false
+  },
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.google.android.apps.maps",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 3,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "d0c9376d-f1a2-4d07-b942-88e36b101e39",
+      "description": "Reviews",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 622,
+        "right": 835,
+        "top": 1589,
+        "bottom": 1664
+      },
+      "text": "REVIEWS",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": true,
+      "packageName": "com.google.android.apps.maps",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 2,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        256,
+        512,
+        131072,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    }
+  ]
+}

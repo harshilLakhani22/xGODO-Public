@@ -1,0 +1,17 @@
+{
+  "name": "automation-script",
+  "version": "1.0.0",
+  "description": "Basic TypeScript script to interact with apps using Playwright",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  }
+}

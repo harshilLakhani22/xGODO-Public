@@ -1,0 +1,71 @@
+{
+  "falseId": "0299ffab-1123-4574-829c-33112da6617a",
+  "viewId": "com.google.android.apps.maps:id/contentEditText",
+  "className": "android.widget.EditText",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 55,
+    "right": 1025,
+    "top": 1177,
+    "bottom": 1425
+  },
+  "text": "Share details of your own experience at this place",
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "147457",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": true,
+  "maxTextLength": 4093,
+  "isPassword": false,
+  "isMultiLine": true,
+  "packageName": "com.google.android.apps.maps",
+  "isLongClickable": true,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 8,
+  "hintText": "Share details of your own experience at this place",
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": true,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    32,
+    64,
+    2097152,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 2097152
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": []
+}

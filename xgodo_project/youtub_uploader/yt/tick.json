@@ -1,0 +1,74 @@
+{
+  "falseId": "0c5c0e3d-621f-4ea5-8d5d-e7390afa6345",
+  "description": "Continue to editor",
+  "viewId": "com.google.android.youtube:id/shorts_camera_next_button_delegate",
+  "className": "android.widget.FrameLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 882,
+    "right": 1080,
+    "top": 1660,
+    "bottom": 1902
+  },
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.google.android.youtube",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 12,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    256,
+    512,
+    131072,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 131072
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": []
+}

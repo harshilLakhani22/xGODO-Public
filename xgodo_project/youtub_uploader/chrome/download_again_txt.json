@@ -1,0 +1,74 @@
+{
+  "falseId": "4ae509e4-366d-4e90-a35f-900e79f78319",
+  "viewId": "com.android.chrome:id/positive_button",
+  "className": "android.widget.Button",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 530,
+    "right": 1009,
+    "top": 1370,
+    "bottom": 1502
+  },
+  "text": "Download again",
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": true,
+  "packageName": "com.android.chrome",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 6,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    256,
+    512,
+    131072,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 131072
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": []
+}

@@ -1,0 +1,9 @@
+{
+    "jobId": "demo-1",
+    "jobVariables": {
+        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "video_title": "My Cool Short",
+        "video_description": "Check this out!",
+        "video_hashtags": "shorts,funny,viral"
+    }
+}

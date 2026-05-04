@@ -1,0 +1,84 @@
+{
+  "falseId": "4f725cc2-727d-46e3-b479-ac2487afa883",
+  "description": "download media",
+  "className": "android.view.MenuItem",
+  "isImportantForAccessibility": false,
+  "boundsInScreen": {
+    "left": 543,
+    "right": 1071,
+    "top": 1139,
+    "bottom": 1265
+  },
+  "collectionItemInfo": {
+    "rowIndex": 0,
+    "columnIndex": 0,
+    "rowSpan": 0,
+    "columnSpan": 0,
+    "isSelected": false
+  },
+  "text": "",
+  "clickable": true,
+  "isFocused": true,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.android.chrome",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 0,
+  "hintText": "",
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "tooltipText": "",
+  "actions": [
+    16908342,
+    16908348,
+    1024,
+    2048,
+    256,
+    512,
+    2,
+    16,
+    128
+  ],
+  "actionLabels": [
+    {
+      "id": 16908342
+    },
+    {
+      "id": 16908348
+    },
+    {
+      "id": 1024
+    },
+    {
+      "id": 2048
+    },
+    {
+      "id": 256
+    },
+    {
+      "id": 512
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 128
+    }
+  ],
+  "children": []
+}

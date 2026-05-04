@@ -1,0 +1,2002 @@
+{
+  "falseId": "4e7d0525-5bb7-4e8b-a898-df877c4a0ae6",
+  "className": "android.widget.FrameLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 373,
+    "right": 1080,
+    "top": 63,
+    "bottom": 1703
+  },
+  "clickable": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.android.chrome",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": false,
+  "index": 0,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    4,
+    8,
+    64,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "e30dca7d-9234-41cd-ad76-520200d1da89",
+      "viewId": "com.android.chrome:id/app_menu_list",
+      "className": "android.widget.ListView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 388,
+        "right": 1065,
+        "top": 78,
+        "bottom": 1677
+      },
+      "collectionInfo": {
+        "rowCount": -1,
+        "columnCount": -1,
+        "itemCount": -1,
+        "importantForAccessibilityItemCount": -1,
+        "hierarchical": false,
+        "selectionMode": 0
+      },
+      "clickable": false,
+      "isFocused": false,
+      "isScrollable": true,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.android.chrome",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": true,
+      "index": 1,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        1,
+        4,
+        8,
+        64,
+        4096,
+        16908342,
+        16908343,
+        16908346
+      ],
+      "actionLabels": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 4096
+        },
+        {
+          "id": 16908342
+        },
+        {
+          "id": 16908343
+        },
+        {
+          "id": 16908346
+        }
+      ],
+      "children": [
+        {
+          "falseId": "b5cf684c-0500-427f-a27c-c5a496d9a007",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 78,
+            "bottom": 246
+          },
+          "collectionItemInfo": {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": false,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": false,
+          "index": 1,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            4,
+            8,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "8967cc58-ce10-4539-9552-657b575b9dfb",
+              "description": "Forward",
+              "viewId": "com.android.chrome:id/button_one",
+              "className": "android.widget.CompoundButton",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 409,
+                "right": 535,
+                "top": 99,
+                "bottom": 225
+              },
+              "isChecked": 0,
+              "clickable": true,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": false,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": true,
+              "packageName": "com.android.chrome",
+              "isLongClickable": true,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            },
+            {
+              "falseId": "beefbc73-7e5a-4541-9dee-815c958eeafd",
+              "description": "Bookmark",
+              "viewId": "com.android.chrome:id/button_two",
+              "className": "android.widget.CompoundButton",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 536,
+                "right": 662,
+                "top": 99,
+                "bottom": 225
+              },
+              "isChecked": 0,
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": true,
+              "packageName": "com.android.chrome",
+              "isLongClickable": true,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 2,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                32,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 32
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            },
+            {
+              "falseId": "f7e1c166-0a43-4ccf-8897-16b173963fcc",
+              "description": "Download",
+              "viewId": "com.android.chrome:id/button_three",
+              "className": "android.widget.CompoundButton",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 663,
+                "right": 789,
+                "top": 99,
+                "bottom": 225
+              },
+              "isChecked": 0,
+              "clickable": true,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": false,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": true,
+              "packageName": "com.android.chrome",
+              "isLongClickable": true,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 3,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            },
+            {
+              "falseId": "a5d32626-5c55-4068-aabd-00e00c84d13f",
+              "description": "Page info",
+              "viewId": "com.android.chrome:id/button_four",
+              "className": "android.widget.CompoundButton",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 790,
+                "right": 916,
+                "top": 99,
+                "bottom": 225
+              },
+              "isChecked": 0,
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": true,
+              "packageName": "com.android.chrome",
+              "isLongClickable": true,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 4,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                32,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 32
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            },
+            {
+              "falseId": "0f95be53-31f8-4c5e-9f86-34222c51d6d8",
+              "description": "Refresh",
+              "viewId": "com.android.chrome:id/button_five",
+              "className": "android.widget.CompoundButton",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 917,
+                "right": 1043,
+                "top": 99,
+                "bottom": 225
+              },
+              "isChecked": 0,
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": true,
+              "packageName": "com.android.chrome",
+              "isLongClickable": true,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 5,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                32,
+                64,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 32
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "eecf9bb8-7eef-4b02-a7c8-f78e81f72b08",
+          "viewId": "com.android.chrome:id/new_tab_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 246,
+            "bottom": 372
+          },
+          "collectionItemInfo": {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 2,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "28be8648-5f46-493b-baea-98d3029f7cf1",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 683,
+                "top": 246,
+                "bottom": 372
+              },
+              "text": "New tab",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "cd458420-840a-44a6-a1fb-c2821c222921",
+          "viewId": "com.android.chrome:id/new_incognito_tab_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 372,
+            "bottom": 498
+          },
+          "collectionItemInfo": {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 3,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "4b2caf4a-3d6a-4afb-b437-599078ecfd38",
+              "viewId": "com.android.chrome:id/title",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 430,
+                "right": 1023,
+                "top": 372,
+                "bottom": 498
+              },
+              "text": "New Incognito tab",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "8a5b184f-e46e-4cec-813f-5f02acd8d7df",
+          "viewId": "com.android.chrome:id/add_to_group_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 498,
+            "bottom": 624
+          },
+          "collectionItemInfo": {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 4,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "fcf49954-4ef2-4df9-85f7-353555217f8a",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 939,
+                "top": 498,
+                "bottom": 624
+              },
+              "text": "Add tab to new group",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "989ff87b-1244-48da-85c6-6ba48bfb5fef",
+          "viewId": "com.android.chrome:id/open_history_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 653,
+            "bottom": 779
+          },
+          "collectionItemInfo": {
+            "rowIndex": 5,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 5,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "493c47a3-7815-42e8-bbda-9666eb7cc620",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 663,
+                "top": 653,
+                "bottom": 779
+              },
+              "text": "History",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "9b4644de-c84f-42a8-b4f6-3e9e09507fb3",
+          "viewId": "com.android.chrome:id/quick_delete_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 779,
+            "bottom": 905
+          },
+          "collectionItemInfo": {
+            "rowIndex": 6,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 6,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "2520a2c0-4c5e-46e1-9ea0-6fa58831e047",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 931,
+                "top": 779,
+                "bottom": 905
+              },
+              "text": "Delete browsing data",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "2cb521e5-93f0-4466-8c8e-7bda181990f7",
+          "viewId": "com.android.chrome:id/downloads_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 934,
+            "bottom": 1060
+          },
+          "collectionItemInfo": {
+            "rowIndex": 8,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 7,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "0345669c-895e-461b-a3b1-dd5a542ad990",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 737,
+                "top": 934,
+                "bottom": 1060
+              },
+              "text": "Downloads",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "cb643b3a-41bb-47e4-b156-a6bee3027919",
+          "viewId": "com.android.chrome:id/all_bookmarks_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 1060,
+            "bottom": 1186
+          },
+          "collectionItemInfo": {
+            "rowIndex": 9,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 8,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "7127f16b-f5db-4a8f-9c27-38acd2c21779",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 739,
+                "top": 1060,
+                "bottom": 1186
+              },
+              "text": "Bookmarks",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "f519d420-0efe-4776-b7c6-31d34381ed58",
+          "viewId": "com.android.chrome:id/recent_tabs_menu_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 1186,
+            "bottom": 1312
+          },
+          "collectionItemInfo": {
+            "rowIndex": 10,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 9,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "82fae78c-b421-42f6-94d0-89c63d115dfe",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 753,
+                "top": 1186,
+                "bottom": 1312
+              },
+              "text": "Recent tabs",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "df6cf0ab-60de-4492-8b1c-c76382e7ce25",
+          "viewId": "com.android.chrome:id/preferences_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 1341,
+            "bottom": 1467
+          },
+          "collectionItemInfo": {
+            "rowIndex": 12,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 10,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "bf414d59-fa2c-43f5-8b46-9970f010704f",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 682,
+                "top": 1341,
+                "bottom": 1467
+              },
+              "text": "Settings",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "89bcd324-26d9-4032-b0ee-7b751e949196",
+          "viewId": "com.android.chrome:id/ntp_customization_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 1467,
+            "bottom": 1593
+          },
+          "collectionItemInfo": {
+            "rowIndex": 13,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 11,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "ef350aec-40b0-4c09-ae8a-6948093d536f",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 998,
+                "top": 1467,
+                "bottom": 1593
+              },
+              "text": "Customize new tab page",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "falseId": "222b51a2-a369-4af4-a4b0-4145a13e6051",
+          "viewId": "com.android.chrome:id/help_id",
+          "className": "android.widget.LinearLayout",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 388,
+            "right": 1065,
+            "top": 1593,
+            "bottom": 1677
+          },
+          "collectionItemInfo": {
+            "rowIndex": 14,
+            "columnIndex": 0,
+            "rowSpan": 1,
+            "columnSpan": 1,
+            "isSelected": false
+          },
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.android.chrome",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 12,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextSelectable": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "falseId": "28309add-ff72-429a-a49c-1b5a74fa6288",
+              "viewId": "com.android.chrome:id/menu_item_text",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 493,
+                "right": 844,
+                "top": 1593,
+                "bottom": 1677
+              },
+              "text": "Help & feedback",
+              "clickable": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.android.chrome",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": false,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextSelectable": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                4,
+                8,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

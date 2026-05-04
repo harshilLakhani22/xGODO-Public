@@ -1,0 +1,136 @@
+{
+  "falseId": "eecf9bb8-7eef-4b02-a7c8-f78e81f72b08",
+  "viewId": "com.android.chrome:id/new_tab_menu_id",
+  "className": "android.widget.LinearLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 388,
+    "right": 1065,
+    "top": 246,
+    "bottom": 372
+  },
+  "collectionItemInfo": {
+    "rowIndex": 1,
+    "columnIndex": 0,
+    "rowSpan": 1,
+    "columnSpan": 1,
+    "isSelected": false
+  },
+  "clickable": true,
+  "isFocused": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.android.chrome",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": true,
+  "index": 2,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextSelectable": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    1,
+    4,
+    8,
+    16,
+    64,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "28be8648-5f46-493b-baea-98d3029f7cf1",
+      "viewId": "com.android.chrome:id/menu_item_text",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 493,
+        "right": 683,
+        "top": 246,
+        "bottom": 372
+      },
+      "text": "New tab",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.android.chrome",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 1,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextSelectable": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        256,
+        512,
+        131072,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    }
+  ]
+}

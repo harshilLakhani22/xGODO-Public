@@ -1,0 +1,240 @@
+Timestamp	Automation ID	Message	Source ID	Line Number	Level
+2/24/2026, 8:21:33 AM	699abf38ab7a5983074dc3bd	{"success":true}		153	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	submitting attempt 1		135	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	submitting {"stage":"Download","video_url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4","download_started_at":"2026-02-24T02:51:01.815Z","progress_status":"downloading_video","comments":"DOWNLOAD_FAILED: Video download failed after 3 attempts."} [{"name":"failureScreenshot","extension":".jpeg","size":137717}]		125	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	Failed to submit debug data: No screens found	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/data.js	66	error
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	Out of steps reporting: No screens found		60	error
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	========================================	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	508	error
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[Download] ❌ DOWNLOAD FAILED after all attempts!	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	507	error
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	========================================	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	506	error
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[Download] ❌ Attempt 3 error: TypeError: agent.actions.type is not a function	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	501	error
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[Download] Typing URL: https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	156	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP B: Type URL via IME ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	155	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[Download] ✅ URL bar active.	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	152	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="assi film box office collection" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Trending searches" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Refine: xgodo"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="xgodo" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Show clipboard contents"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="Text you copied" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=omnibox_suggestions_dropdown text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=omnibox_results_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=mic_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=url_bar text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] ImageView id=location_bar_status_icon text="" desc="Your connection to this site is not secure"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=location_bar_status text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=location_bar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=toolbar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=toolbar_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:31 AM	699abf38ab7a5983074dc3bd	[Download] === After search box click === (33 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[Download] Found search_box: text="Search Google or type URL"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	136	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP A: Click search box to activate URL bar ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	129	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[Download] 📍 On HOME screen → Path 1.1	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	410	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[Download] ✅ Chrome launched.	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	406	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="YouTube" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="YouTube: m.youtube.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="Cricbuzz.com" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="Cricbuzz.com: m.cricbuzz.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="Facebook" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="Facebook: m.facebook.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="commondatastorage.googleapis.com/gtv-videos-bucket" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="commondatastorage.googleapis.com/gtv-videos-bucket"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] HorizontalScrollView id=mv_tiles_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=incognito_button_text text="Incognito" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=incognito_button text="" desc="New Incognito tab"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=composeplate_button_text text="AI Mode" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=composeplate_button text="" desc="Ask AI Mode"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id=voice_search_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=search_box_text text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=feed_stream_recycler_view text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:29 AM	699abf38ab7a5983074dc3bd	[Download] === After Chrome launch === (59 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="bambukat 2 box office collection" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Trending searches" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Refine: xgodo"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="xgodo" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Show clipboard contents"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="Text you copied" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=omnibox_suggestions_dropdown text="" desc="8 suggested items in list below."	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=omnibox_results_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=mic_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=url_bar text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] ImageView id=location_bar_status_icon text="" desc="Your connection to this site is not secure"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=location_bar_status text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=location_bar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=toolbar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=toolbar_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[Download] === Pre-launch === (34 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP 1: Launch Chrome ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	370	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[Download] ══════════ ATTEMPT 3/3 ══════════	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	367	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[Download] ❌ Attempt 2 error: TypeError: agent.actions.type is not a function	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	501	error
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[Download] Typing URL: https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	156	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP B: Type URL via IME ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	155	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[Download] ✅ URL bar active.	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	152	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="bambukat 2 box office collection" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Trending searches" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Refine: xgodo"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="xgodo" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Show clipboard contents"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="Text you copied" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=omnibox_suggestions_dropdown text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=omnibox_results_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=mic_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=url_bar text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] ImageView id=location_bar_status_icon text="" desc="Your connection to this site is not secure"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=location_bar_status text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=location_bar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=toolbar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=toolbar_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:21 AM	699abf38ab7a5983074dc3bd	[Download] === After search box click === (34 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[Download] Found search_box: text="Search Google or type URL"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	136	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP A: Click search box to activate URL bar ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	129	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[Download] 📍 On HOME screen → Path 1.1	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	410	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[Download] ✅ Chrome launched.	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	406	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="YouTube" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="YouTube: m.youtube.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="Cricbuzz.com" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="Cricbuzz.com: m.cricbuzz.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="Facebook" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="Facebook: m.facebook.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="commondatastorage.googleapis.com/gtv-videos-bucket" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc=": commondatastorage.googleapis.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] HorizontalScrollView id=mv_tiles_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=incognito_button_text text="Incognito" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=incognito_button text="" desc="New Incognito tab"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=composeplate_button_text text="AI Mode" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=composeplate_button text="" desc="Ask AI Mode"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id=voice_search_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=search_box_text text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=feed_stream_recycler_view text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:19 AM	699abf38ab7a5983074dc3bd	[Download] === After Chrome launch === (59 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="manager fired without farewell" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Trending searches" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Refine: xgodo"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="xgodo" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Show clipboard contents"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="Text you copied" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=omnibox_suggestions_dropdown text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=omnibox_results_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=mic_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=url_bar text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] ImageView id=location_bar_status_icon text="" desc="Your connection to this site is not secure"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=location_bar_status text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=location_bar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=toolbar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=toolbar_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[Download] === Pre-launch === (33 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP 1: Launch Chrome ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	370	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[Download] ══════════ ATTEMPT 2/3 ══════════	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	367	log
+2/24/2026, 8:21:12 AM	699abf38ab7a5983074dc3bd	[Download] ❌ Attempt 1 error: TypeError: agent.actions.type is not a function	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	501	error
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[Download] Typing URL: https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	156	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP B: Type URL via IME ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	155	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[Download] ✅ URL bar active.	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	152	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="manager fired without farewell" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Trending searches" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Refine: xgodo"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="xgodo" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id= text="" desc="Show clipboard contents"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=line_1 text="Text you copied" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ViewGroup id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=omnibox_suggestions_dropdown text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=omnibox_results_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] ImageButton id=mic_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=url_bar text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] ImageView id=location_bar_status_icon text="" desc="Your connection to this site is not secure"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=location_bar_status text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=location_bar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id=toolbar text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] ViewGroup id=toolbar_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:11 AM	699abf38ab7a5983074dc3bd	[Download] === After search box click === (33 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[Download] Found search_box: text="Search Google or type URL"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	136	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP A: Click search box to activate URL bar ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	129	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[Download] 📍 On HOME screen → Path 1.1	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	410	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[Download] ✅ Chrome launched.	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	406	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="YouTube" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="YouTube: m.youtube.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="Cricbuzz.com" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="Cricbuzz.com: m.cricbuzz.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="Facebook" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc="Facebook: m.facebook.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=tile_view_title text="commondatastorage.googleapis.com/gtv-videos-bucket" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] FrameLayout id= text="" desc=": commondatastorage.googleapis.com"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] HorizontalScrollView id=mv_tiles_container text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=incognito_button_text text="Incognito" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=incognito_button text="" desc="New Incognito tab"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] TextView id=composeplate_button_text text="AI Mode" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] LinearLayout id=composeplate_button text="" desc="Ask AI Mode"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id=lens_camera_button text="" desc="Search with your camera using Google Lens"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] ImageView id=voice_search_button text="" desc="Start voice search"	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[✓] EditText id=search_box_text text="Search Google or type URL" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] androidx.recyclerview.widget.RecyclerView id=feed_stream_recycler_view text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:09 AM	699abf38ab7a5983074dc3bd	[Download] === After Chrome launch === (59 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] Button id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Stop" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[✓] View id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] Button id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Generate" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[✓] View id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="hashcode: " desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] Button id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Start" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[✓] View id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] Button id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Set this app as voice assistant" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[✓] View id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] TextView id= text="Gastric Lamprey" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] View id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] View id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] h2.m1 id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[ ] FrameLayout id= text="" desc=""	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	41	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[Download] === Pre-launch === (18 nodes)	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	34	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	{---------- 🔵 STEP 1: Launch Chrome ----------}	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	370	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	[Download] ══════════ ATTEMPT 1/3 ══════════	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	367	log
+2/24/2026, 8:21:02 AM	699abf38ab7a5983074dc3bd	{"success":true}		153	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	submitting attempt 1		135	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	submitting {"stage":"Download","video_url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4","download_started_at":"2026-02-24T02:51:01.815Z","progress_status":"downloading_video"} []		125	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	[Download] Video URL: https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	357	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	========================================	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	349	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	[Download] DOWNLOAD STAGE STARTED	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	348	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	========================================	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/DownloadStage.js	347	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	[Main] Executing Download stage (Chrome → download → YouTube)...	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/main.js	52	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	Timestamp: 2026-02-24T02:51:01.807Z	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/main.js	47	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	=== YouTube Shorts Upload Automation Started ===	https://699abf38ab7a5983074dc3bd/8605332b603b668c5e4241782186a3454eabf72f/main.js	46	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	Timeout not set. OutOfSteps "timeout" will not be reported.		577	warning
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	getting current task		230	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	{"video_url":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4","video_title":"My Cool Short","video_description":"Check this out!","video_hashtags":"shorts,funny,viral"}		5	log
+2/24/2026, 8:21:01 AM	699abf38ab7a5983074dc3bd	{}

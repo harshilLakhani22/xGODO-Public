@@ -1,0 +1,2357 @@
+{
+  "falseId": "2cbda501-7d83-4373-a44a-a87591f26d2d",
+  "className": "android.widget.FrameLayout",
+  "isImportantForAccessibility": true,
+  "boundsInScreen": {
+    "left": 0,
+    "right": 1080,
+    "top": 0,
+    "bottom": 2340
+  },
+  "clickable": false,
+  "isScrollable": false,
+  "inputType": "0",
+  "isEnabled": true,
+  "isDismissable": false,
+  "isEditable": false,
+  "maxTextLength": -1,
+  "isPassword": false,
+  "isMultiLine": false,
+  "packageName": "com.google.android.youtube",
+  "isLongClickable": false,
+  "isContextClickable": false,
+  "isFocusable": false,
+  "index": 0,
+  "isHeading": false,
+  "isSelected": false,
+  "isShowingHintText": false,
+  "isTextEntryKey": false,
+  "isVisibleToUser": true,
+  "actions": [
+    4,
+    8,
+    64,
+    16908342
+  ],
+  "actionLabels": [
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "falseId": "eaa0dc4b-24bb-49ab-ae99-7b4d01be3afb",
+      "description": "Navigate up",
+      "className": "android.widget.ImageButton",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 0,
+        "right": 154,
+        "top": 76,
+        "bottom": 208
+      },
+      "clickable": true,
+      "isFocused": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.youtube",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": true,
+      "index": 2,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "tooltipText": "Navigate up",
+      "actions": [
+        1,
+        4,
+        8,
+        16,
+        64,
+        256,
+        512,
+        131072,
+        16908342,
+        16908356
+      ],
+      "actionLabels": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        },
+        {
+          "id": 16908356
+        }
+      ],
+      "children": []
+    },
+    {
+      "falseId": "4879c7e3-81c5-4ef6-93e2-a3ff497237ae",
+      "className": "android.widget.TextView",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 198,
+        "right": 613,
+        "top": 87,
+        "bottom": 197
+      },
+      "text": "Add details",
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.youtube",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 1,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        256,
+        512,
+        131072,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 256
+        },
+        {
+          "id": 512
+        },
+        {
+          "id": 131072
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": []
+    },
+    {
+      "falseId": "ba7c5a18-1fc7-4d0d-87d1-2e8824c356ed",
+      "viewId": "com.google.android.youtube:id/accessibility_layer_container",
+      "className": "android.widget.FrameLayout",
+      "isImportantForAccessibility": true,
+      "boundsInScreen": {
+        "left": 0,
+        "right": 1080,
+        "top": 208,
+        "bottom": 2210
+      },
+      "clickable": false,
+      "isScrollable": false,
+      "inputType": "0",
+      "isEnabled": true,
+      "isDismissable": false,
+      "isEditable": false,
+      "maxTextLength": -1,
+      "isPassword": false,
+      "isMultiLine": false,
+      "packageName": "com.google.android.youtube",
+      "isLongClickable": false,
+      "isContextClickable": false,
+      "isFocusable": false,
+      "index": 3,
+      "isHeading": false,
+      "isSelected": false,
+      "isShowingHintText": false,
+      "isTextEntryKey": false,
+      "isVisibleToUser": true,
+      "actions": [
+        4,
+        8,
+        64,
+        16908342
+      ],
+      "actionLabels": [
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": [
+        {
+          "falseId": "26ff0f2c-449b-4fee-b728-c18be2842929",
+          "viewId": "com.google.android.youtube:id/scroll_container",
+          "className": "android.widget.ScrollView",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 0,
+            "right": 1080,
+            "top": 208,
+            "bottom": 2012
+          },
+          "clickable": false,
+          "isFocused": false,
+          "isScrollable": true,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": false,
+          "packageName": "com.google.android.youtube",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 2,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            64,
+            16908342,
+            16908346,
+            4096
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            },
+            {
+              "id": 16908346
+            },
+            {
+              "id": 4096
+            }
+          ],
+          "children": [
+            {
+              "falseId": "648028d4-1d09-423f-b413-a8cc6c74dbcd",
+              "viewId": "com.google.android.youtube:id/music_disclaimer_banner_notice_message",
+              "className": "android.widget.TextView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 44,
+                "right": 1036,
+                "top": 241,
+                "bottom": 448
+              },
+              "text": "By uploading, you're creating a channel and agreeing to YouTube's Terms of Service. Learn more",
+              "clickable": true,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": true,
+              "packageName": "com.google.android.youtube",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 1,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                16,
+                64,
+                256,
+                512,
+                131072,
+                16908342
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": []
+            },
+            {
+              "falseId": "17c90f91-48a1-4a73-894c-bd724d3fffdb",
+              "viewId": "com.google.android.youtube:id/recycler_view",
+              "className": "android.support.v7.widget.RecyclerView",
+              "isImportantForAccessibility": true,
+              "boundsInScreen": {
+                "left": 0,
+                "right": 1080,
+                "top": 481,
+                "bottom": 2012
+              },
+              "collectionInfo": {
+                "rowCount": 1,
+                "columnCount": 1,
+                "hierarchical": false,
+                "selectionMode": 0
+              },
+              "clickable": false,
+              "isFocused": false,
+              "isScrollable": false,
+              "inputType": "0",
+              "isEnabled": true,
+              "isDismissable": false,
+              "isEditable": false,
+              "maxTextLength": -1,
+              "isPassword": false,
+              "isMultiLine": false,
+              "packageName": "com.google.android.youtube",
+              "isLongClickable": false,
+              "isContextClickable": false,
+              "isFocusable": true,
+              "index": 5,
+              "isHeading": false,
+              "isSelected": false,
+              "isShowingHintText": false,
+              "isTextEntryKey": false,
+              "isVisibleToUser": true,
+              "actions": [
+                1,
+                4,
+                8,
+                64,
+                16908342,
+                16908343
+              ],
+              "actionLabels": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                },
+                {
+                  "id": 16908343
+                }
+              ],
+              "children": [
+                {
+                  "falseId": "5a5898b1-bdcc-4b58-b6c6-80d3aa6aa752",
+                  "className": "android.view.ViewGroup",
+                  "isImportantForAccessibility": true,
+                  "boundsInScreen": {
+                    "left": 0,
+                    "right": 1080,
+                    "top": 481,
+                    "bottom": 2012
+                  },
+                  "clickable": false,
+                  "isScrollable": false,
+                  "inputType": "0",
+                  "isEnabled": true,
+                  "isDismissable": false,
+                  "isEditable": false,
+                  "maxTextLength": -1,
+                  "isPassword": false,
+                  "isMultiLine": false,
+                  "packageName": "com.google.android.youtube",
+                  "isLongClickable": false,
+                  "isContextClickable": false,
+                  "isFocusable": false,
+                  "index": 1,
+                  "isHeading": false,
+                  "isSelected": false,
+                  "isShowingHintText": false,
+                  "isTextEntryKey": false,
+                  "isVisibleToUser": true,
+                  "actions": [
+                    4,
+                    8,
+                    64,
+                    16908342
+                  ],
+                  "actionLabels": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [
+                    {
+                      "falseId": "8b23605c-7d26-40de-93fb-aa105c21c978",
+                      "className": "android.view.ViewGroup",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 481,
+                        "bottom": 941
+                      },
+                      "clickable": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": false,
+                      "index": 1,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        4,
+                        8,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "93b1f4d4-ddee-43b4-a4d5-2e6900e7f533",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 33,
+                            "right": 269,
+                            "top": 514,
+                            "bottom": 872
+                          },
+                          "clickable": true,
+                          "isFocused": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": true,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            1,
+                            4,
+                            8,
+                            16,
+                            64,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 1
+                            },
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 16
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [
+                            {
+                              "falseId": "7b134699-adbf-4dd6-a2e0-6c6d727d0beb",
+                              "className": "android.view.ViewGroup",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 33,
+                                "right": 269,
+                                "top": 514,
+                                "bottom": 872
+                              },
+                              "clickable": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": false,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": false,
+                              "index": 1,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                4,
+                                8,
+                                64,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": [
+                                {
+                                  "falseId": "850030bb-6421-4818-95c0-efee0ce883b5",
+                                  "description": "0:15",
+                                  "className": "android.view.ViewGroup",
+                                  "isImportantForAccessibility": true,
+                                  "boundsInScreen": {
+                                    "left": 144,
+                                    "right": 241,
+                                    "top": 797,
+                                    "bottom": 855
+                                  },
+                                  "text": "0:15",
+                                  "clickable": false,
+                                  "isScrollable": false,
+                                  "inputType": "0",
+                                  "isEnabled": true,
+                                  "isDismissable": false,
+                                  "isEditable": false,
+                                  "maxTextLength": -1,
+                                  "isPassword": false,
+                                  "isMultiLine": true,
+                                  "packageName": "com.google.android.youtube",
+                                  "isLongClickable": false,
+                                  "isContextClickable": false,
+                                  "isFocusable": false,
+                                  "index": 1,
+                                  "isHeading": false,
+                                  "isSelected": false,
+                                  "isShowingHintText": false,
+                                  "isTextEntryKey": false,
+                                  "isVisibleToUser": true,
+                                  "actions": [
+                                    4,
+                                    8,
+                                    64,
+                                    256,
+                                    512,
+                                    16908342
+                                  ],
+                                  "actionLabels": [
+                                    {
+                                      "id": 4
+                                    },
+                                    {
+                                      "id": 8
+                                    },
+                                    {
+                                      "id": 64
+                                    },
+                                    {
+                                      "id": 256
+                                    },
+                                    {
+                                      "id": 512
+                                    },
+                                    {
+                                      "id": 16908342
+                                    }
+                                  ],
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "falseId": "34f16dac-06f6-4d1d-bddd-215739baae1b",
+                              "description": "Edit thumbnail",
+                              "className": "android.widget.ImageView",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 55,
+                                "right": 121,
+                                "top": 536,
+                                "bottom": 602
+                              },
+                              "clickable": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": false,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": false,
+                              "index": 2,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                4,
+                                8,
+                                64,
+                                256,
+                                512,
+                                131072,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 256
+                                },
+                                {
+                                  "id": 512
+                                },
+                                {
+                                  "id": 131072
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "falseId": "3cf77953-e721-4e1f-a7dc-03d09ca50f86",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 302,
+                            "right": 1047,
+                            "top": 514,
+                            "bottom": 872
+                          },
+                          "clickable": true,
+                          "isFocused": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": true,
+                          "index": 2,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            1,
+                            4,
+                            8,
+                            16,
+                            64,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 1
+                            },
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 16
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [
+                            {
+                              "falseId": "87e55890-60f7-4f72-8be3-25772e5c5487",
+                              "description": "",
+                              "className": "android.view.ViewGroup",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 302,
+                                "right": 305,
+                                "top": 514,
+                                "bottom": 517
+                              },
+                              "text": "",
+                              "clickable": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": true,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": false,
+                              "index": 1,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                4,
+                                8,
+                                64,
+                                256,
+                                512,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 256
+                                },
+                                {
+                                  "id": 512
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": []
+                            },
+                            {
+                              "falseId": "762ba71e-f7f4-4cff-8208-1469d94fde67",
+                              "className": "android.widget.EditText",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 302,
+                                "right": 1047,
+                                "top": 536,
+                                "bottom": 690
+                              },
+                              "text": "Caption your Short",
+                              "clickable": true,
+                              "isFocused": false,
+                              "isScrollable": false,
+                              "inputType": "1",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": true,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": true,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": true,
+                              "isContextClickable": false,
+                              "isFocusable": true,
+                              "index": 2,
+                              "hintText": "Caption your Short",
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": true,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                1,
+                                4,
+                                8,
+                                16,
+                                32,
+                                64,
+                                2097152,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 1
+                                },
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 16
+                                },
+                                {
+                                  "id": 32
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 2097152
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "1b0f4dc8-0189-4652-81ae-71d193abcaab",
+                      "className": "android.view.ViewGroup",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 941,
+                        "bottom": 1241
+                      },
+                      "clickable": false,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 2,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        4,
+                        8,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "585c0cd9-445b-4bf1-bb61-3b7dc04ea47e",
+                          "description": "Uploading as",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 0,
+                            "right": 1080,
+                            "top": 963,
+                            "bottom": 1041
+                          },
+                          "text": "Uploading as",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            131072,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 131072
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "falseId": "f889b845-0d3f-4f36-97f5-23548bb52216",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 0,
+                            "right": 1080,
+                            "top": 1041,
+                            "bottom": 1241
+                          },
+                          "clickable": true,
+                          "isFocused": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": true,
+                          "index": 2,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            1,
+                            4,
+                            8,
+                            16,
+                            64,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 1
+                            },
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 16
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [
+                            {
+                              "falseId": "1c4db709-8ae3-46fe-8bd0-2601be72166e",
+                              "description": "Batman",
+                              "className": "android.view.ViewGroup",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 165,
+                                "right": 590,
+                                "top": 1063,
+                                "bottom": 1141
+                              },
+                              "text": "Batman",
+                              "clickable": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": true,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": false,
+                              "index": 1,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                4,
+                                8,
+                                64,
+                                256,
+                                512,
+                                131072,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 256
+                                },
+                                {
+                                  "id": 512
+                                },
+                                {
+                                  "id": 131072
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": []
+                            },
+                            {
+                              "falseId": "d5fa59c2-15ec-4067-b0b6-ade0e2eec579",
+                              "description": "Batman-y7z8d",
+                              "className": "android.view.ViewGroup",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 165,
+                                "right": 590,
+                                "top": 1141,
+                                "bottom": 1219
+                              },
+                              "text": "Batman-y7z8d",
+                              "clickable": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": true,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": false,
+                              "index": 2,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                4,
+                                8,
+                                64,
+                                256,
+                                512,
+                                131072,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 256
+                                },
+                                {
+                                  "id": 512
+                                },
+                                {
+                                  "id": 131072
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": []
+                            },
+                            {
+                              "falseId": "0d8101e0-d73d-41a2-9b07-7b3581ef4af0",
+                              "description": "Edit name and picture",
+                              "className": "android.widget.ImageView",
+                              "isImportantForAccessibility": true,
+                              "boundsInScreen": {
+                                "left": 915,
+                                "right": 1036,
+                                "top": 1080,
+                                "bottom": 1201
+                              },
+                              "clickable": false,
+                              "isFocused": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": false,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": true,
+                              "index": 3,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                1,
+                                4,
+                                8,
+                                64,
+                                256,
+                                512,
+                                131072,
+                                16908342
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 1
+                                },
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 256
+                                },
+                                {
+                                  "id": 512
+                                },
+                                {
+                                  "id": 131072
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "26bdbbe2-ff39-4a1b-9deb-6b754c5c90c8",
+                      "className": "android.widget.Button",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 1241,
+                        "bottom": 1440
+                      },
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 3,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        4,
+                        8,
+                        16,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "d2d1e859-33a8-44f8-bb33-25639dad7fd1",
+                          "description": "Visibility",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 143,
+                            "right": 903,
+                            "top": 1263,
+                            "bottom": 1329
+                          },
+                          "text": "Visibility",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        },
+                        {
+                          "falseId": "c4cf8808-1dee-46e8-b48c-4228faca3af5",
+                          "description": "Public",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 143,
+                            "right": 328,
+                            "top": 1335,
+                            "bottom": 1418
+                          },
+                          "text": "Public",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 2,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "0af9c797-f27e-4382-bb5a-fabfe4436d58",
+                      "className": "android.widget.Button",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 1440,
+                        "bottom": 1583
+                      },
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 4,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        4,
+                        8,
+                        16,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "24ddc558-8a44-49f6-9083-bd4ca454be81",
+                          "description": "Location",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 143,
+                            "right": 402,
+                            "top": 1470,
+                            "bottom": 1553
+                          },
+                          "text": "Location",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "290cbc54-1fc3-4daf-bf5f-995fbd4f5d40",
+                      "className": "android.widget.Button",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 1583,
+                        "bottom": 1726
+                      },
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 5,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        4,
+                        8,
+                        16,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "f1976c7b-c80e-4956-8443-347de2a4a9e7",
+                          "description": "Select audience",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 143,
+                            "right": 612,
+                            "top": 1613,
+                            "bottom": 1696
+                          },
+                          "text": "Select audience",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "72738655-44fc-4927-839e-47d52c9b6360",
+                      "className": "android.view.ViewGroup",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 1726,
+                        "bottom": 2012
+                      },
+                      "clickable": false,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 6,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": true,
+                      "actions": [
+                        1,
+                        4,
+                        8,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "3510475f-2208-4965-9e16-5ca97bbead32",
+                          "description": "Regardless of your location, you're legally required to comply with the US Children's Online Privacy Protection Act (COPPA) and/or other laws. You're required to tell us whether your videos are Made for Kids. What's content Made for Kids?",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 44,
+                            "right": 1036,
+                            "top": 1759,
+                            "bottom": 2012
+                          },
+                          "text": "Regardless of your location, you're legally required to comply with the US Children's Online Privacy Protection Act (COPPA) and/or other laws. You're required to tell us whether your videos are Made for Kids. What's content Made for Kids?",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": true,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [
+                            {
+                              "falseId": "043c6c7d-161f-4d32-b10f-e120cacc2e31",
+                              "className": "android.widget.Button",
+                              "isImportantForAccessibility": false,
+                              "boundsInScreen": {
+                                "left": 44,
+                                "right": 720,
+                                "top": 2096,
+                                "bottom": 2156
+                              },
+                              "text": "What's content Made for Kids?",
+                              "clickable": true,
+                              "isFocused": false,
+                              "isScrollable": false,
+                              "inputType": "0",
+                              "isEnabled": true,
+                              "isDismissable": false,
+                              "isEditable": false,
+                              "maxTextLength": -1,
+                              "isPassword": false,
+                              "isMultiLine": false,
+                              "packageName": "com.google.android.youtube",
+                              "isLongClickable": false,
+                              "isContextClickable": false,
+                              "isFocusable": true,
+                              "index": 0,
+                              "isHeading": false,
+                              "isSelected": false,
+                              "isShowingHintText": false,
+                              "isTextEntryKey": false,
+                              "isVisibleToUser": true,
+                              "actions": [
+                                1,
+                                64
+                              ],
+                              "actionLabels": [
+                                {
+                                  "id": 1
+                                },
+                                {
+                                  "id": 64
+                                }
+                              ],
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "a139987d-0477-4a26-8579-60a156662fb3",
+                      "className": "android.widget.Button",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 2156,
+                        "bottom": 2012
+                      },
+                      "clickable": true,
+                      "isFocused": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": true,
+                      "index": 7,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": false,
+                      "actions": [
+                        1,
+                        4,
+                        8,
+                        16,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "ecbc860a-c127-40d2-adf1-5bb2b276443f",
+                          "description": "Altered content",
+                          "className": "android.view.ViewGroup",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 143,
+                            "right": 597,
+                            "top": 2186,
+                            "bottom": 2012
+                          },
+                          "text": "Altered content",
+                          "clickable": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": true,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": false,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": false,
+                          "actions": [
+                            4,
+                            8,
+                            64,
+                            256,
+                            512,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "falseId": "4922d525-2c37-4573-a648-cff0dcc7fe43",
+                      "className": "android.view.ViewGroup",
+                      "isImportantForAccessibility": true,
+                      "boundsInScreen": {
+                        "left": 0,
+                        "right": 1080,
+                        "top": 2299,
+                        "bottom": 2012
+                      },
+                      "clickable": false,
+                      "isScrollable": false,
+                      "inputType": "0",
+                      "isEnabled": true,
+                      "isDismissable": false,
+                      "isEditable": false,
+                      "maxTextLength": -1,
+                      "isPassword": false,
+                      "isMultiLine": false,
+                      "packageName": "com.google.android.youtube",
+                      "isLongClickable": false,
+                      "isContextClickable": false,
+                      "isFocusable": false,
+                      "index": 8,
+                      "isHeading": false,
+                      "isSelected": false,
+                      "isShowingHintText": false,
+                      "isTextEntryKey": false,
+                      "isVisibleToUser": false,
+                      "actions": [
+                        4,
+                        8,
+                        64,
+                        16908342
+                      ],
+                      "actionLabels": [
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "falseId": "31190ca6-6ca1-411b-ab51-095187b63f47",
+                          "description": "Comments. On",
+                          "className": "android.widget.Button",
+                          "isImportantForAccessibility": true,
+                          "boundsInScreen": {
+                            "left": 0,
+                            "right": 1080,
+                            "top": 2299,
+                            "bottom": 2012
+                          },
+                          "clickable": true,
+                          "isFocused": false,
+                          "isScrollable": false,
+                          "inputType": "0",
+                          "isEnabled": true,
+                          "isDismissable": false,
+                          "isEditable": false,
+                          "maxTextLength": -1,
+                          "isPassword": false,
+                          "isMultiLine": false,
+                          "packageName": "com.google.android.youtube",
+                          "isLongClickable": false,
+                          "isContextClickable": false,
+                          "isFocusable": true,
+                          "index": 1,
+                          "isHeading": false,
+                          "isSelected": false,
+                          "isShowingHintText": false,
+                          "isTextEntryKey": false,
+                          "isVisibleToUser": false,
+                          "actions": [
+                            1,
+                            4,
+                            8,
+                            16,
+                            64,
+                            256,
+                            512,
+                            131072,
+                            16908342
+                          ],
+                          "actionLabels": [
+                            {
+                              "id": 1
+                            },
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 16
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 131072
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "falseId": "4645aec9-9e6f-4689-a9c5-72c9671bfbef",
+          "viewId": "com.google.android.youtube:id/shorts_snapshot_bottom_button",
+          "className": "android.widget.Button",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 33,
+            "right": 523,
+            "top": 2045,
+            "bottom": 2177
+          },
+          "text": "Save draft",
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": true,
+          "packageName": "com.google.android.youtube",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 3,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            256,
+            512,
+            131072,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 256
+            },
+            {
+              "id": 512
+            },
+            {
+              "id": 131072
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": []
+        },
+        {
+          "falseId": "a1c13c56-fd33-4792-bc3f-9f0dd97f9e7f",
+          "viewId": "com.google.android.youtube:id/upload_bottom_button",
+          "className": "android.widget.Button",
+          "isImportantForAccessibility": true,
+          "boundsInScreen": {
+            "left": 556,
+            "right": 1047,
+            "top": 2045,
+            "bottom": 2177
+          },
+          "text": "Upload Short",
+          "clickable": true,
+          "isFocused": false,
+          "isScrollable": false,
+          "inputType": "0",
+          "isEnabled": true,
+          "isDismissable": false,
+          "isEditable": false,
+          "maxTextLength": -1,
+          "isPassword": false,
+          "isMultiLine": true,
+          "packageName": "com.google.android.youtube",
+          "isLongClickable": false,
+          "isContextClickable": false,
+          "isFocusable": true,
+          "index": 4,
+          "isHeading": false,
+          "isSelected": false,
+          "isShowingHintText": false,
+          "isTextEntryKey": false,
+          "isVisibleToUser": true,
+          "actions": [
+            1,
+            4,
+            8,
+            16,
+            64,
+            256,
+            512,
+            131072,
+            16908342
+          ],
+          "actionLabels": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 256
+            },
+            {
+              "id": 512
+            },
+            {
+              "id": 131072
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}
